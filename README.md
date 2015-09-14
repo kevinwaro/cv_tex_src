@@ -1,6 +1,6 @@
 # cv_tex_src
 
-# source code of my curriculum vitae made with latex
+# source code of my curriculum vitae in french and english versions made with latex
 
 The [moderncv](http://www.ctan.org/pkg/moderncv) package is also needed to compiling this file .
 
